@@ -1,2 +1,2 @@
-# archival bot
+# archival-bot
  
